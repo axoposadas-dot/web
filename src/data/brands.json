@@ -1,0 +1,266 @@
+[
+  {
+    "name": "Litany Encarnación",
+    "file": "01.jpg",
+    "treatment": "screen",
+    "category": "Tecnología",
+    "primary": true,
+    "source": "litany.jpg"
+  },
+  {
+    "name": "iPhone",
+    "file": "02.png",
+    "treatment": "light",
+    "category": "Tecnología",
+    "primary": true,
+    "source": "iphone.png"
+  },
+  {
+    "name": "Samsung",
+    "file": "03.png",
+    "treatment": "invert",
+    "category": "Tecnología",
+    "primary": true,
+    "source": "samgung.png"
+  },
+  {
+    "name": "Ford",
+    "file": "04.png",
+    "treatment": "tonal",
+    "category": "Automotriz & Movilidad",
+    "primary": true,
+    "source": "FORD.png"
+  },
+  {
+    "name": "Fiat",
+    "file": "05.jpg",
+    "treatment": "invert",
+    "category": "Automotriz & Movilidad",
+    "primary": true,
+    "source": "FIAT.jpg"
+  },
+  {
+    "name": "Volkswagen",
+    "file": "06.jpg",
+    "treatment": "invert",
+    "category": "Automotriz & Movilidad",
+    "primary": true,
+    "source": "volkswagen-log.jpg"
+  },
+  {
+    "name": "AXION",
+    "file": null,
+    "treatment": "",
+    "category": "Automotriz & Movilidad",
+    "primary": true,
+    "source": null
+  },
+  {
+    "name": "YPF",
+    "file": null,
+    "treatment": "",
+    "category": "Automotriz & Movilidad",
+    "primary": true,
+    "source": null
+  },
+  {
+    "name": "Río Uruguay",
+    "file": null,
+    "treatment": "",
+    "category": "Automotriz & Movilidad",
+    "primary": true,
+    "source": null
+  },
+  {
+    "name": "Hotel Julio César",
+    "file": "10.jpg",
+    "treatment": "photo",
+    "category": "Turismo & Hotelería",
+    "primary": true,
+    "source": "julio cesar 2.jpg"
+  },
+  {
+    "name": "JetSMART",
+    "file": "11.png",
+    "treatment": "light",
+    "category": "Turismo & Hotelería",
+    "primary": true,
+    "source": "jet-smart-seeklogo.png"
+  },
+  {
+    "name": "Aerolíneas Argentinas",
+    "file": null,
+    "treatment": "",
+    "category": "Turismo & Hotelería",
+    "primary": true,
+    "source": null
+  },
+  {
+    "name": "Duomo Heladerías",
+    "file": "13.png",
+    "treatment": "invert",
+    "category": "Retail & Consumo",
+    "primary": true,
+    "source": "DUOMO.png"
+  },
+  {
+    "name": "Supermercados California",
+    "file": "14.png",
+    "treatment": "tonal",
+    "category": "Retail & Consumo",
+    "primary": true,
+    "source": "California-Logo-alta.png"
+  },
+  {
+    "name": "La Anónima",
+    "file": "15.webp",
+    "treatment": "light",
+    "category": "Retail & Consumo",
+    "primary": true,
+    "source": "La_anonima_logo.svg.webp"
+  },
+  {
+    "name": "Panificados Maná",
+    "file": "16.jpg",
+    "treatment": "screen",
+    "category": "Retail & Consumo",
+    "primary": true,
+    "source": "MANA.jpg"
+  },
+  {
+    "name": "Electro Misiones",
+    "file": "17.jpg",
+    "treatment": "invert",
+    "category": "Tecnología",
+    "primary": false,
+    "source": "logo-1729177428.jpg"
+  },
+  {
+    "name": "Neored",
+    "file": "18.png",
+    "treatment": "invert",
+    "category": "Tecnología",
+    "primary": false,
+    "source": "Neored.png"
+  },
+  {
+    "name": "Peugeot",
+    "file": "19.jpg",
+    "treatment": "invert",
+    "category": "Automotriz & Movilidad",
+    "primary": false,
+    "source": "PEUGEOT.jpg"
+  },
+  {
+    "name": "BYD",
+    "file": "20.svg",
+    "treatment": "light",
+    "category": "Automotriz & Movilidad",
+    "primary": false,
+    "source": "byd-logo.svg"
+  },
+  {
+    "name": "González Automóviles",
+    "file": "21.avif",
+    "treatment": "tonal",
+    "category": "Automotriz & Movilidad",
+    "primary": false,
+    "source": "GOnzales.avif"
+  },
+  {
+    "name": "JAC Motors",
+    "file": "22.webp",
+    "treatment": "invert",
+    "category": "Automotriz & Movilidad",
+    "primary": false,
+    "source": "logo-jackmotors.webp"
+  },
+  {
+    "name": "Lowe S.A.",
+    "file": "23.jpg",
+    "treatment": "invert",
+    "category": "Automotriz & Movilidad",
+    "primary": false,
+    "source": "lowesa.jpg"
+  },
+  {
+    "name": "Automisión",
+    "file": "24.jpg",
+    "treatment": "screen",
+    "category": "Automotriz & Movilidad",
+    "primary": false,
+    "source": "opengraph-automision.jpg"
+  },
+  {
+    "name": "AWA Resort",
+    "file": "25.png",
+    "treatment": "light",
+    "category": "Turismo & Hotelería",
+    "primary": false,
+    "source": "awa-white.png"
+  },
+  {
+    "name": "Petri",
+    "file": "26.jpg",
+    "treatment": "invert",
+    "category": "Retail & Consumo",
+    "primary": false,
+    "source": "278380516_3138374196415052_2505335814787724681_n.jpg"
+  },
+  {
+    "name": "Alaska Fashion",
+    "file": "27.jpg",
+    "treatment": "invert",
+    "category": "Retail & Consumo",
+    "primary": false,
+    "source": "ALASKA.jpg"
+  },
+  {
+    "name": "Mostaza",
+    "file": "28.png",
+    "treatment": "light",
+    "category": "Retail & Consumo",
+    "primary": false,
+    "source": "Mostaza_restaurant_logo.png"
+  },
+  {
+    "name": "Híper del Pollo",
+    "file": "29.png",
+    "treatment": "invert",
+    "category": "Retail & Consumo",
+    "primary": false,
+    "source": "logo.png"
+  },
+  {
+    "name": "McDonald’s",
+    "file": "30.png",
+    "treatment": "invert",
+    "category": "Retail & Consumo",
+    "primary": false,
+    "source": "MC DONALDS BLANCO.png"
+  },
+  {
+    "name": "Coca-Cola",
+    "file": "31.png",
+    "treatment": "light",
+    "category": "Retail & Consumo",
+    "primary": false,
+    "source": "pngwing.com.png"
+  },
+  {
+    "name": "Nike",
+    "file": "32.png",
+    "treatment": "light",
+    "category": "Retail & Consumo",
+    "primary": false,
+    "source": "[CITYPNG.COM]HD White Nike Logo Transparent PNG - 2000x2000.png"
+  },
+  {
+    "name": "Pizza Hut",
+    "file": "33.png",
+    "treatment": "light",
+    "category": "Retail & Consumo",
+    "primary": false,
+    "source": "[CITYPNG.COM]Pizza Hut Red Logo HD Transparent Background - 1000x1000.png"
+  }
+]
